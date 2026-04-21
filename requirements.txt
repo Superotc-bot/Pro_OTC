@@ -1,2 +1,3 @@
 pyTelegramBotAPI
 tradingview_ta
+flask
